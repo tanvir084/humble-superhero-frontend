@@ -23,7 +23,7 @@ This project is the frontend for the **Humble Superhero API**, built using **Vit
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/humble-superhero-api-frontend.git
+   git clone https://github.com/yourusername/humble-superhero-frontend.git
    cd humble-superhero-api-frontend
    ```
 
